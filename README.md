@@ -1,8 +1,4 @@
-### Hello 👋 I am Niklas Romanowski
+### Hello 👋
 
-- I’m looking to collaborate on an e-ink display driver kernel module 
-- Pronouns: He/His 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherknob&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Sherknob)  
+- PinePhone enthusiast
+- Pronouns: He/His
